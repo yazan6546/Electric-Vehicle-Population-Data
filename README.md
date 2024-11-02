@@ -1,5 +1,4 @@
-# Electric Vehicle Population Analysis in the US
-
+# Electric Vehicle Population Analysis for Washington State
 ## Table of Contents
 
 - [Project Description](#project-description)
